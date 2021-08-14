@@ -1,5 +1,5 @@
 # Anchor Node Finder
-Contains the code for detecting anchor node in different types of networks. Anchor node is a node which will have the most long-ranged links connected to it so that the average path length of the network gets reduced by maximum.
+Contains the code for detecting anchor node in different type of networks. Anchor node is a node which will have the most long-ranged links connected to it so that the average path length of the network gets reduced by maximum.
 
 ## 2-D GRID NETWORK:
 
