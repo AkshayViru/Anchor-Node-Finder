@@ -6,7 +6,7 @@ Contains the code for detecting anchor nodes in different types of networks whic
 ### Code:
 - The main.py can be used to generate N*N 2-D grid networks. It will also add the most optimum LL and calculate the APL. These data are stored in an Excel Sheet. 
 - It can also be used to plot APL-LL graph and the degree distribution. It is possible to print the adjacency matrix that can be used to check whether the code is working properly or not. These parts are kept in comments as they are not essential for our work and can be used when necessary.
-- Command line arguments are necessary for executing the program. The two arguments that must be provided are: size of the grid network, the number of LL to be added. Eg: to generate a $`4\times4`$ grid network and add 20 LLs, the code can be executed as follows:
+- Command line arguments are necessary for executing the program. The two arguments that must be provided are: size of the grid network, the number of LL to be added. Eg: to generate a `4x4` grid network and add 20 LLs, the code can be executed as follows:
 `python main.py 4 20`
 
 ### Output:
